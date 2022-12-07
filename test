@@ -8,9 +8,9 @@ blueprint:
       description: The remote to interact with.
       selector:
         device:
-          integration: zwave_js
+          integration: 
           manufacturer: HANK Electronics Ltd.
-          model: SCN01
+          model: 
     button_press:
       name: Press Button One
       description: Action to run on button press.
